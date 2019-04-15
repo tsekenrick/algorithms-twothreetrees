@@ -20,7 +20,9 @@ The next *m* lines are of the form
 
 ### Constraints
 *n, m <= 1000*
+
 *|a|, |b| <= 10*
+
 *0 <= k <= 10^9*
 
 YOU MUST USE 2-3 TREE DATA STRUCTURES PROVIDED IN CLASS
